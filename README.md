@@ -30,7 +30,7 @@ A maze solver game that generates a **random maze in every run**. The project in
 
 ---
 
-## 🎮 Controls (edit as needed)
+## 🎮 Controls
 - `W` — Move Up  
 - `A` — Move Left  
 - `S` — Move Down  
